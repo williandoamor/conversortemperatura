@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConversorTemperatura</string>
+
+    <!-- MainActivity xml -->
+    <string name="tv_instrucao">Informe a temperatura \n e clique no botão Converter Temperatura</string>
+    <string name="rb_celcius">Celcius</string>
+    <string name="rb_fahrenheit">Fahrenheit</string>
+    <string name="bt_converter">Converter Temperatura</string>
+    <string name="edt_temperatura">Digita o valor a converter</string>
+
+    <!-- MainActivity Codigo -->
+    <string name="toolbarTitle">Conversor de Temperaturas</string>
+
+</resources>

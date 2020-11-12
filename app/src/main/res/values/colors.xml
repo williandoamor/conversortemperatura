@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Designer -->
+    <color name="primaryColorDark">#C45900</color>
+    <color name="primaryColor">#EF6c00</color>
+    <color name="backgroundBlue">#00bcd4</color>
+
+    <!-- Common -->
+    <color name="colorAccent">#EF6c00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFA500</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#000000</color>
+</resources>
