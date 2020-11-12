@@ -1,3 +1,3 @@
 # conversordetemperatura
-Criando para brincar com kotlin no Android
+Criado para brincar com kotlin no Android
 # conversortemperatura
